@@ -10,6 +10,6 @@ public class PrimeNumber {
                 break;
             }
         }
-        System.out.println(num + " is " + (isPrime ? "It is a Prime Number" : "It is not a Prime Number"));
+        System.out.println(num + " is " + (isPrime ? "It is a prime number" : "It is not a Prime Number"));
     }
 }
